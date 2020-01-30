@@ -1,0 +1,77 @@
+C++ Keywords:
+1. asm - Insert an assembly instruction
+2. auto - declare a local variable, or we can let the compiler to deduce the type of the variable from the initialization
+3. bool - declare a boolean variable
+4. break - break out of a loop
+5. case - a block of code in a switch statement
+6. catch - handls exceptions from throw
+7. char - declare a character variable
+8. class - declare a class
+9. const - declare immutable data or functions that do not change data
+10. const_cast - cast from const variables
+11. continue - bypass iterations of a loop
+12. default - default handler in a case statement
+13. delete - make dynamic memory available
+14. do - looping construct
+15. double - delcare a precision floating-point variable
+16. dynamic_cast - perform runtime casts
+17. else - alternate case for an if statement
+18. enum - create enumeration types
+19. explicit - only use constructors when the exactly match
+20. export - allows template definitions to be separated from their declarations
+21. extern - declares a variable or function and specifies that it has external linkage
+22. false - a constant representing the boolean false value
+23. float -  declare a floating-point variable
+24. for - Looping construct
+25. friend - Grant non-member function access to private data
+26. goto - Jump to a different par of the program
+27. if - Execute code based on the result of a test
+28. inline - Optimize calls to short functions
+29. int - Declare an integer variable
+30. long - Declare a long integer variable
+31. mutable - Override a const vvariable
+32. namespace - Partition the golbal namespace by defining a scope
+33. new - Allocate dynamic memory for a new variable
+34. operator - Create overload operator functions
+35. private - Declare private memebers of a class
+36. protected - Declare protected members of a class
+37. public - Declare public members of a class
+38. register - Request that a variable be optimized for speed
+39. reinterpret_cast - Change the type of a variable
+40. return - Terminates the execution of a function an returns control to the calling function
+41. short - Declare a short integer
+42. signed - Modify variable type declarations
+43. sizeof - Return the size of a variable or type
+44. static - Create permanent storage for a variable
+45. static_cast - Perform a nonpolymorphic cast
+46. struct - Define a new structure
+47. switch - Execute code based on different possible values for a variable
+48. template - Create generic functions
+49. this - A pointer to the current object
+50. throw - Throws an exception
+51. true - A constant representing the boolean true value
+52. try - Execute code that ca throw an exception
+53. typedef - Create a new type name from an existing type
+54. typeid - Describes an object
+55. typename - Declare a class or undefined type
+56. union - A structue that assigns multiple variables to the same memory location
+57. unsigned - Declare an unsigned integer variable
+58. using - Import complete or partial namespaces into the current scope
+59. virtual - Create a function that can be overridden by a derived class
+60. void - Declare functions or data with no associated data type
+61. volatile - Warn the Compiler about variables that can be modified unexpectedly
+62. wchar_t - Declare a wide-character variable
+63. while - Looping Construct
+
+C++ Reserved Words
+1. and - alternative operator for &&
+2. and_eq - alternative operator for &=
+3. bitand - alternative operator for &
+4. bitor - alternative operator for |
+5. compl - alternative operator for ~
+6. not - alternative operator for !
+7. not_eq - alternative operator for !=
+8. or - alternative operator for ||
+9. or_eq - alternative operator for |=
+10. xor - alternative operator for ^
+11. xor_eq - alternative operator for ^=
